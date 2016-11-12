@@ -26,7 +26,7 @@ employeeList = [
     name: "Lance Barney",
     position: "Teaching Assistant",
     hireDate: "09/05/2016",
-    imgurl: "https://media.licdn.com/media/AAEAAQAAAAAAAAgmAAAAJDA1NDI0ZjdiLWQ0NzgtNDFkYy1hNDdkLTIxMDc4M2U0NWFhNw.jpg",
+    imgurl: "https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/11892307_10207975567014831_5550690456050751695_o.jpg",
     DOB: "12/12/1970"
   },{
     name: "Bennington Shermhire",
